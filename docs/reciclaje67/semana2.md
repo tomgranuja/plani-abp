@@ -103,11 +103,46 @@ El informe debe contener:
   </tr></thead>
 <tbody>
   <tr>
-    <td>Análisis del Problema </td>
-    <td>Presenta un análisis detallado y preciso del problema de los envases de cartón y Tetra Pak, con ejemplos claros y relevantes. </td>
-    <td>El análisis es claro y relevante, pero falta algunos ejemplos o detalles específicos. </td>
-    <td>Presenta un análisis básico, con ejemplos limitados o poco claros. </td>
-    <td>El análisis carece de detalles y ejemplos; no aborda bien el problema.</td>
+    <td>Portada</td>
+    <td>La portada tiene una presentación llamativa y contiene título, integrantes, institución y fecha.</td>
+    <td>La portada contiene título, integrantes, institución y fecha.</td>
+    <td>La portada contiene título e integrantes pero falta algún o algunos elementos.</td>
+    <td>El trabajo no tiene una hoja de portada o en la portada falta el título o los integrantes.</td>
+  </tr>
+  <tr>
+    <td>Introducción</td>
+    <td>Describe el contexto del problema, presenta el objetivo y aporta estadísticas y detalle del proceso de reciclaje del tetra pak.</td>
+    <td>Describe el contexto del problema, el objetivo. También aporta estadísticas o detalle del proceso de reciclaje del tetra pak, pero no ambos.</td>
+    <td>Describe el contexto del problema y el objetivo pero no aporta estadísticas ni describe el procesos de reciclaje del tetra pak.</td>
+    <td>El trabajo no tiene una introducción o la introducción no describe el problema o no presenta el objetivo.</td>
+  </tr>
+  <tr>
+    <td>Desarrollo</td>
+    <td>Presenta una propuesta de reuso de envases, contiene el análisis de longitudes, superficie y volúmen del diseño y compara diferentes envases para confeccionar.</td>
+    <td>Presenta una propuest de reuso de envases y un análisis de longitudes, superficie y volumen.</td>
+    <td>Presenta una propuesta de reuso de envases y un análisis de las dimensiones, pero este no está completo.</td>
+    <td>El trabajo no tiene un desarrollo o el desarrollo no contiene una propuesta de reuso de envases.</td>
+  </tr>
+  <tr>
+    <td>Discusión y conclusión</td>
+    <td>Aporta evidencia de una o más empresas que fabrican productos reciclados en Chile. Reflexiona acerca de lo aprendido y opina sobre el posible impacto de su propuesta.</td>
+    <td>Reflexiona acerca de lo aprendido y opina sobre el posible impacto de su propuesta.</td>
+    <td>Reflexiona acerca de lo aprendido.</td>
+    <td>El trabajo no contiene una discusión ni conclusión o en esta no hay una reflexión acerca de lo aprendido.</td>
+  </tr>
+  <tr>
+    <td>Referencias</td>
+    <td>Uso variado de fuentes, estas están bien integradas en el informe y son referidas con su título, año y dirección del enlace si es fuente digital. </td>
+    <td>Usa fuentes y estas son referidas con su título, año y dirección del enlace si es fuente digital.</td>
+    <td>Usa fuentes y estas son referidas aunque faltan algunas de las informaciones como título, año o dirección del enlace si es fuente digital.</td>
+    <td>El trabajo no contiene fuentes o las fuentes no están informadas.</td>
+  </tr>
+  <tr>
+    <td>Propuesta de Reuso </td>
+    <td>Propuesta innovadora y práctica, con una clara justificación basada en el análisis previo. </td>
+    <td>Propuesta práctica con cierta justificación basada en el análisis. </td>
+    <td>Propuesta presentada con poca innovación o justificación. </td>
+    <td>Propuesta poco práctica o carente de justificación clara.</td>
   </tr>
   <tr>
     <td>Proceso de Reciclaje </td>
@@ -118,30 +153,16 @@ El informe debe contener:
   </tr>
   <tr>
     <td>Cálculos Matemáticos </td>
-    <td>Cálculos precisos y bien documentados, con clara demostración de las medidas en los empaques. </td>
-    <td>Cálculos precisos con cierta documentación de medidas. </td>
+    <td>Cálculos precisos y bien documentados, con clara demostración de las medidas en los empaques y esquemas. </td>
+    <td>Cálculos precisos con cierta documentación de medidas o esquemas.</td>
     <td>Cálculos realizados con precisión limitada y documentación mínima. </td>
     <td>Cálculos inadecuados o incorrectos, con poca o ninguna documentación.</td>
   </tr>
   <tr>
-    <td>Propuesta de Reuso </td>
-    <td>Propuesta innovadora y práctica, con una clara justificación basada en el análisis previo. </td>
-    <td>Propuesta práctica con cierta justificación basada en el análisis. </td>
-    <td>Propuesta presentada con poca innovación o justificación. </td>
-    <td>Propuesta poco práctica o carente de justificación clara.</td>
-  </tr>
-  <tr>
-    <td>Calidad de la Presentación </td>
+    <td>Aspecto general</td>
     <td>Excelente organización y claridad, bien estructurado y visualmente atractivo. </td>
     <td>Bien organizado y estructurado, aunque podría ser más atractivo visualmente. </td>
     <td>Organización básica con algunos problemas de claridad. </td>
     <td>Mala organización y estructura, carece de claridad y atractivo visual.</td>
-  </tr>
-  <tr>
-    <td>Referencias y Uso de TICs </td>
-    <td>Uso extensivo y variado de fuentes confiables; bien integradas en el informe. </td>
-    <td>Buen uso de fuentes, pero podrían diversificarse más. </td>
-    <td>Uso limitado de las fuentes; falta de diversidad y profundidad. </td>
-    <td>Fuentes escasas o poco confiables, con escasa integración en el informe.</td>
   </tr>
 </tbody></table>
