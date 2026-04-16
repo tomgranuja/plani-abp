@@ -80,10 +80,23 @@
         padding-top: 12px;
         padding-bottom: 12px;
         text-align: left;
-        background-color: #f2f2f2;;
+        background-color: #f2f2f2;
         color: white;
       }
 
+      /* ===== Misc. utils ===== */
+      span.content-type-category {
+        text-transform: uppercase;
+        color: var(--color-blue);
+        background-color: var(--color-gray-300);
+        padding: 0.3em 0.5em;
+        border-radius: 0.4em;
+      }
+
+      span.content-type-category::after {
+        content: ": "; /* Adds colon and a standard space */
+        white-space: pre; /* Prevents the space from collapsing */
+      }
 
     </style>
   {%- feed_meta -%}

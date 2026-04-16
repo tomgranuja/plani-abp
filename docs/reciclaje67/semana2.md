@@ -20,23 +20,23 @@ En clases los estudiantes trabajan rotando por tres estaciones.
 <a id="estacion-1"></a>
 ### Estación 1 ¿Cuál es la realidad en Chile?
 
-[<span class='content-type-category'>PDF: </span>Estadísticas reciclaje 2024](https://resimple.cl/wp-content/uploads/2025/09/Estudio-Estadisticas-del-Reciclaje-2024.-Preliminar-Envases-y-Embalajes_04-09-2025.pdf)
+[<span class='content-type-category'>Pdf</span>Estadísticas reciclaje 2024](https://resimple.cl/wp-content/uploads/2025/09/Estudio-Estadisticas-del-Reciclaje-2024.-Preliminar-Envases-y-Embalajes_04-09-2025.pdf)
 
 Arman gráficos de barra en recortables con los datos del cuadro "4. Resultados Generales" de pp. 14.
 
 <a id="estacion-2"></a>
 ### Estación 2 ¿Qué hacemos en Chile?
 
-[<span class='content-type-category'>Video: </span>Programa ¿Cuál es tu huella? - La rut a del reciclaje de los envases Tetra Pak](https://www.youtube.com/watch?v=wQHyftqypko)
+[<span class='content-type-category'>Video</span>Programa ¿Cuál es tu huella? - La rut a del reciclaje de los envases Tetra Pak](https://www.youtube.com/watch?v=wQHyftqypko)
 
-[<span class='content-type-category'>Pdf: </span>Gestión envases de cartón](https://www.tetrapak.com/content/dam/tetrapak/publicweb/cl/es/sustainability/guia-para-clasificar-envases-de-tetra-pak.pdf)
+[<span class='content-type-category'>Pdf</span>Gestión envases de cartón](https://www.tetrapak.com/content/dam/tetrapak/publicweb/cl/es/sustainability/guia-para-clasificar-envases-de-tetra-pak.pdf)
 
 Ven el video y hacen un esquema del procesamiento del cartón tetra pak desde la separación en domicilios hasta la confección de productos para reusar.
 
 <a id="estacion-3"></a>
 ### Estación 3 ¿Qué podríamos hacer en Chile?
 
-[<span class='content-type-category'>Video: </span>Entrevista Victor Velastino Aymapu](https://www.youtube.com/watch?v=-hC8mIXL3Vw)
+[<span class='content-type-category'>Video</span>Entrevista Victor Velastino Aymapu](https://www.youtube.com/watch?v=-hC8mIXL3Vw)
 
 Responden en el cuaderno.
 
