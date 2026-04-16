@@ -48,11 +48,17 @@ Responden en el cuaderno.
 
 Taller de medición y cálculo de área y volúmen con residuos.
 
+El taller es apoyado en el horario de matemática con guia de cálculo de volumen y superficie de paralelepípedos.
+
 Podrían trabajar con una guía donde anoten secuencialmente una cantidad de envases, el largo, ancho y alto del apilamiento y luego el volumen. Con eso extrapolan para cantidades más grandes. Esto puede conducir posteriormente a reportar qué volumen de material es reusado con sus propuestas de figuras en base a cartón o tetrapak.
+
+Para usar más eficientemente el tiempo, cada grupo puede encomendar a un integrante la tarea de aprender a hacer el análisis dimensional, y nos reunimos sólo con estos integrantes para guiar paso a paso el cálculo con ejemplos de residuos o modelos.
 
 ## Visita de experto
 
-Visita de un experto en reciclaje para discusión y aprendizaje
+Visita de un experto en reciclaje para discusión y aprendizaje.
+
+Todavía no contamos con este especialista. Necesitamos planificar actividades para compensar.
 
 ## Informe grupal
 
