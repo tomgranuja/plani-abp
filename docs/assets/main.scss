@@ -1,0 +1,73 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+/* ===== minima default vars overwrite ===== */
+$content-width: 900px;
+$text-color: #191d33;
+
+@import "minima";
+
+/* ===== minima overwrites ===== */
+.site-header {
+  border-top: none;
+}
+
+table th, table td {
+    padding: ($spacing-unit / 3) ($spacing-unit / 4);
+  }
+
+/* ===== Base Styles ===== */
+:root {
+  --color-white:#fff;
+  // --color-gray-100:#f7f7f9;
+  // --color-gray-200:#efeff3;
+  // --color-gray-300:#e0e0e3;
+  // --color-gray-550:#676778;
+  --color-black:#000;
+  --color-dark-blue:#191d33;
+  --color-light-blue:#f6f9fb;
+  --color-gray-blue:#a1a4b5;
+  --color-blue:#1a42e8;
+  --color-green:#37b659;
+}
+
+h1, h2, h3, .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
+  font-weight: 300;
+}
+
+.top-title {
+  margin-top: 0px;
+}
+
+.text-secondary {
+  color: var(--color-gray-blue);
+}
+
+/* ===== Misc. utils ===== */
+a.content-link {
+  .content-category {
+    text-transform: uppercase;
+    color: var(--color-blue);
+    background-color: $grey-color-light;
+    padding: 0.3em 0.5em;
+    border-radius: 0.4em;
+  }
+
+  .content-link-text {
+    // Pending
+  }
+}
+
+span.content-type-category {
+  text-transform: uppercase;
+  color: var(--color-blue);
+  background-color: $grey-color-light;
+  padding: 0.3em 0.5em;
+  border-radius: 0.4em;
+}
+
+span.content-type-category::after {
+  content: ": "; /* Adds colon and a standard space */
+  white-space: pre; /* Prevents the space from collapsing */
+}

@@ -39,3 +39,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Override automatic links in header
+# header_pages:
+#   - reciclaje67.html
+#   - reciclaje67/semana1.html
+#   - reciclaje67/semana2.md
+#   - reciclaje67/semana3.md
