@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Planificaciones ABP
 ---
 
 Sitio con planificaciones para proyectos de aprendizaje escolar transdiciplinarios.
@@ -8,4 +9,15 @@ Este sitio tiene el objetivo de compartir material de planificación facilitando
 
 Usa los links en el encabezado para explorar el, hasta la fecha, [único proyecto publicado][reciclaje67].
 
+
+## Matemática
+
+Como trabajo en desarrollo para el área de matemática, puedes revisar la [planificación de apoyo][matematica] para aprendizajes del segundo semestre de los úlimos niveles de la básica.
+
+[(sólo una clase por el momento)][nb67-c01]
+
 [reciclaje67]: {{ site.baseurl }}{% link reciclaje67.html %}
+
+[matematica]: {{ site.baseurl }}{% link matematica/index.md %}
+
+[nb67-c01]: {{ site.baseurl }}{% link matematica/nb67/01_concepto_y_nombres_de_fraccion.md %}
