@@ -19,13 +19,21 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 ### Clases en desarrollo
 
 - [NB67 Clase 01][nb67-c01]
+- [NB67 Clase 02][nb67-c02]
+- [NB678 Clase 01][nb678-c01]
+- [NB678 Clase 02][nb678-c02]
 - [NB8 Clase 01][nb8-c01]
-
 
 [reciclaje67]: {{ site.baseurl }}{% link reciclaje67.html %}
 
 [matematica]: {{ site.baseurl }}{% link matematica/index.md %}
 
 [nb67-c01]: {{ site.baseurl }}{% link matematica/nb67/01_concepto_y_nombres_de_fraccion.md %}
+
+[nb67-c02]: {{ site.baseurl }}{% link matematica/nb67/02_fracciones_en_recta.md %}
+
+[nb678-c01]: {{ site.baseurl }}{% link matematica/nb678/01_concepto_de_razon.md %}
+
+[nb678-c02]: {{ site.baseurl }}{% link matematica/nb678/02_razones_equivalentes.md %}
 
 [nb8-c01]: {{ site.baseurl }}{% link matematica/nb8/01_reducir_terminos.md %}

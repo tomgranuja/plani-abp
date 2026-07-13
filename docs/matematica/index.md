@@ -8,22 +8,32 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 
 ## NB67: Bloques de trabajo con 6° y 7° básico.
 
-Horario de martes y jueves de 09:30 a 10:30.
+> martes y jueves de 09:30 a 10:30.
 
 - [C01 Concepto de fracción y representación][nb67-c01]
-
-## NB8: Bloque de trabajo con 8° básico.
-
-Horario de jueves de 08:30 a 09:30.
-
-- [C01 Reducción de términos semejantes][nb8-c01]
+- [C02 Fracciones en la recta numérica][nb67-c02]
 
 ## NB678: Bloque de trabajo con 6°, 7° y 8° básico.
 
-Horario de martes de 12:30 a 13:30.
+> martes de 12:30 a 13:30.
+
+- [C01 Concepto de razón][nb678-c01]
+- [C01 Razones equivalentes][nb678-c02]
+
+## NB8: Bloque de trabajo con 8° básico.
+
+> jueves de 08:30 a 09:30.
+
+- [C01 Reducción de términos semejantes][nb8-c01]
 
 
 [nb67-c01]: {{ site.baseurl }}{% link matematica/nb67/01_concepto_y_nombres_de_fraccion.md %}
+
+[nb67-c02]: {{ site.baseurl }}{% link matematica/nb67/02_fracciones_en_recta.md %}
+
+[nb678-c01]: {{ site.baseurl }}{% link matematica/nb678/01_concepto_de_razon.md %}
+
+[nb678-c02]: {{ site.baseurl }}{% link matematica/nb678/02_razones_equivalentes.md %}
 
 [nb8-c01]: {{ site.baseurl }}{% link matematica/nb8/01_reducir_terminos.md %}
 
