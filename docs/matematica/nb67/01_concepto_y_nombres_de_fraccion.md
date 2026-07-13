@@ -1,6 +1,6 @@
 ---
 layout: page
-nav_exclude: false
+nav_exclude: true
 ---
 
 [<- Volver a matematica]({{ site.baseurl }}{% link matematica/index.md %})
