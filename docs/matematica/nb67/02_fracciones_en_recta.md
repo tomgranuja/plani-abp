@@ -19,12 +19,12 @@ Se proponen 5 momentos para una clase activa de 50 minutos.
 
 ### TO-DO
 
-- [ ] Proyección de recta numérica
-- [ ] Posición exacta de ciertas fracciones
+- [x] Proyección de recta numérica
+- [x] Posición exacta de ciertas fracciones
 - [ ] Animación de división de la recta
 - [ ] Ejemplos visuales explicación
-- [ ] Hoja de ejercitación fracciones en recta
-- [ ] Cortar papel café
+- [x] Hoja de ejercitación fracciones en recta
+- [x] Cortar papel café
 
 ### Juego ubicar fracción en recta (10 min.)
 
