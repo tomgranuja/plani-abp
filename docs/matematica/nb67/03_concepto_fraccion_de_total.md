@@ -16,10 +16,10 @@ nav_exclude: true
 
 ### TO-DO
 
-- [ ] Animación para donación de leña en recta numérica
-- [ ] Ejemplos visuales de fracciones de un total (diapositivas)
-- [ ] Tiras de papel recortables para manipular
-- [ ] Hojas cuadriculadas de 24 cuadrantes
+- [x] Animación para donación de leña en recta numérica
+- [x] Ejemplos visuales de fracciones de un total (diapositivas)
+- [x] Tiras de papel recortables para manipular
+- [x] Hojas cuadriculadas de 24 cuadrantes
 - [ ] Hoja para pictórico
 
 ### Anécdota donación de leña/pellet (10 min.)
