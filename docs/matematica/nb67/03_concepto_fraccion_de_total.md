@@ -26,11 +26,15 @@ nav_exclude: true
 
 Se plantea la situación de querer hacer una donación de cierta cantidad de leña o pellet. La persona tiene un poco de leña en una bodeguita y está pensando cuánto donar. Donar la cuarta parte es demasiado poco, pero si dona la tercera parte puede que sea mucho, entonces quiere hacer una donación intermedia.
 
+[![cuadro de animación de intro a la multiplicación de fracciones]({{ site.baseurl }}/assets/images/nb67_c03/intro_multiplicacion_fraccion_video_th.png)]({{ site.baseurl }}/assets/videos/nb67_c03/intro_multiplicacion_fraccion.mp4)
+
 Se anima en la recta numérica la posición de un cuarto y de un tercio, y en conjunto se encuentra una fracción que quede entre estos dos valores.
 
 ### Ejemplos visuales de fracción de un total (10 min.)
 
 Esto ejemplos más que nada muestran representación concreta de cantidades (personas, lápices, longitud de cuerda, etc.) y sobre estas esquematizan una fracción de dicha cantidad. Se puede interactuar con los estudiantes invitando a dividir los esquemas según se requiera.
+
+![tres cuartos de 24 pelotas]({{ site.baseurl }}/assets/images/nb67_c03/lamina_ejemplo.png)
 
 ### Representación en tiras de papel (15 min.)
 
