@@ -24,11 +24,11 @@ nav_exclude: true
 
 ### Anécdota donación de leña/pellet (10 min.)
 
-Se plantea la situación de querer hacer una donación de cierta cantidad de leña o pellet. La persona tiene un poco de leña en una bodeguita y está pensando cuánto donar. Donar la cuarta parte es demasiado poco, pero si dona la tercera parte puede que sea mucho, entonces quiere hacer una donación intermedia.
+Se plantea la situación de querer hacer una donación de cierta cantidad de leña o pellet. La persona tiene un poco de leña en una bodeguita y está pensando cuánto donar. Donar un tercio es demasiado poco, pero si dona la mitad puede que sea mucho, entonces quiere hacer una donación intermedia.
 
 [![cuadro de animación de intro a la multiplicación de fracciones]({{ site.baseurl }}/assets/images/nb67_c03/intro_multiplicacion_fraccion_video_th.png)]({{ site.baseurl }}/assets/videos/nb67_c03/intro_multiplicacion_fraccion.mp4)
 
-Se anima en la recta numérica la posición de un cuarto y de un tercio, y en conjunto se encuentra una fracción que quede entre estos dos valores.
+Se anima en la recta numérica la posición de un tercio y un medio, y en conjunto se encuentra una fracción que quede entre estos dos valores.
 
 ### Ejemplos visuales de fracción de un total (10 min.)
 
