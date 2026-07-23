@@ -27,6 +27,7 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 > jueves de 08:30 a 09:30.
 
 - [C01 Reducción de términos semejantes][nb8-c01]
+- [C02 Multiplicar expresiones algebraicas][nb8-c02]
 
 
 [nb67-c01]: {{ site.baseurl }}{% link matematica/nb67/01_concepto_y_nombres_de_fraccion.md %}
@@ -42,4 +43,6 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 [nb678-c02]: {{ site.baseurl }}{% link matematica/nb678/02_razones_equivalentes.md %}
 
 [nb8-c01]: {{ site.baseurl }}{% link matematica/nb8/01_reducir_terminos.md %}
+
+[nb8-c02]: {{ site.baseurl }}{% link matematica/nb8/02_multiplicar_expresiones_algebraicas.md %}
 

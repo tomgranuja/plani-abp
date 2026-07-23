@@ -25,6 +25,7 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 - [NB678 Clase 01][nb678-c01]
 - [NB678 Clase 02][nb678-c02]
 - [NB8 Clase 01][nb8-c01]
+- [NB8 Clase 02][nb8-c02]
 
 [reciclaje67]: {{ site.baseurl }}{% link reciclaje67.html %}
 
@@ -43,3 +44,5 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 [nb678-c02]: {{ site.baseurl }}{% link matematica/nb678/02_razones_equivalentes.md %}
 
 [nb8-c01]: {{ site.baseurl }}{% link matematica/nb8/01_reducir_terminos.md %}
+
+[nb8-c02]: {{ site.baseurl }}{% link matematica/nb8/02_multiplicar_expresiones_algebraicas.md %}
