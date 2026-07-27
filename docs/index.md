@@ -25,6 +25,7 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 - [NB67 Clase 05][nb67-c05]
 - [NB678 Clase 01][nb678-c01]
 - [NB678 Clase 02][nb678-c02]
+- [NB678 Clase 03][nb678-c03]
 - [NB8 Clase 01][nb8-c01]
 - [NB8 Clase 02][nb8-c02]
 
@@ -45,6 +46,8 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 [nb678-c01]: {{ site.baseurl }}{% link matematica/nb678/01_concepto_de_razon.md %}
 
 [nb678-c02]: {{ site.baseurl }}{% link matematica/nb678/02_razones_equivalentes.md %}
+
+[nb678-c03]: {{ site.baseurl }}{% link matematica/nb678/03_concepto_proporcion.md %}
 
 [nb8-c01]: {{ site.baseurl }}{% link matematica/nb8/01_reducir_terminos.md %}
 

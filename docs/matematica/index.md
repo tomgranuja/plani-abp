@@ -21,7 +21,8 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 > martes de 12:30 a 13:30.
 
 - [C01 Concepto de razón][nb678-c01]
-- [C01 Razones equivalentes][nb678-c02]
+- [C02 Razones equivalentes][nb678-c02]
+- [C03 Concepto de proporción][nb678-c03]
 
 ## NB8: Bloque de trabajo con 8° básico.
 
@@ -44,6 +45,8 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 [nb678-c01]: {{ site.baseurl }}{% link matematica/nb678/01_concepto_de_razon.md %}
 
 [nb678-c02]: {{ site.baseurl }}{% link matematica/nb678/02_razones_equivalentes.md %}
+
+[nb678-c03]: {{ site.baseurl }}{% link matematica/nb678/03_concepto_proporcion.md %}
 
 [nb8-c01]: {{ site.baseurl }}{% link matematica/nb8/01_reducir_terminos.md %}
 
