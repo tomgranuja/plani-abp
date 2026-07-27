@@ -40,7 +40,7 @@ Se presenta un problema de multiplicación de fracción por un entero (resultado
 
 Se agrupan en parejas, cada pareja recibe una hoja con 4 ejercicios de multiplicación de fracciones. Las parejas que terminan, corrigen y pasan de inmediato al siguiente momento.
 
-[![Hoja de ejercitación]({{ site.baseurl }}/assets/images/nb67_c04/hoja_ejercitacion.png)](https://drive.google.com/uc?export=view&id=1ERqjtkGY1l5KHYPcMRSPmKZgdGXoAEs6)
+[![Hoja de ejercitación]({{ site.baseurl }}/assets/images/nb67_c04/hoja_ejercitacion.png)](https://drive.google.com/uc?export=view&id=1dOP8ddmxW7vW2Xs7b0bjMr6lcqz7CrXo)
 
 ### Creación de enigmas (20 minutos)
 
