@@ -14,6 +14,7 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 - [C02 Fracciones en la recta numérica][nb67-c02]
 - [C03 Concepto fracción de un total][nb67-c03]
 - [C04 Cálculo fracción de un total][nb67-c04]
+- [C05 Comprensión de division][nb67-c05]
 
 ## NB678: Bloque de trabajo con 6°, 7° y 8° básico.
 
@@ -37,6 +38,8 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 [nb67-c03]: {{ site.baseurl }}{% link matematica/nb67/03_concepto_fraccion_de_total.md %}
 
 [nb67-c04]: {{ site.baseurl }}{% link matematica/nb67/04_calculo_fraccion_de_total.md %}
+
+[nb67-c05]: {{ site.baseurl }}{% link matematica/nb67/05_comprension_division.md %}
 
 [nb678-c01]: {{ site.baseurl }}{% link matematica/nb678/01_concepto_de_razon.md %}
 
