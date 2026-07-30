@@ -23,6 +23,7 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 - [NB67 Clase 03][nb67-c03]
 - [NB67 Clase 04][nb67-c04]
 - [NB67 Clase 05][nb67-c05]
+- [NB67 Clase 06][nb67-c06]
 - [NB678 Clase 01][nb678-c01]
 - [NB678 Clase 02][nb678-c02]
 - [NB678 Clase 03][nb678-c03]
@@ -42,6 +43,8 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 [nb67-c04]: {{ site.baseurl }}{% link matematica/nb67/04_calculo_fraccion_de_total.md %}
 
 [nb67-c05]: {{ site.baseurl }}{% link matematica/nb67/05_comprension_division.md %}
+
+[nb67-c06]: {{ site.baseurl }}{% link matematica/nb67/06_aplicacion_division.md %}
 
 [nb678-c01]: {{ site.baseurl }}{% link matematica/nb678/01_concepto_de_razon.md %}
 
