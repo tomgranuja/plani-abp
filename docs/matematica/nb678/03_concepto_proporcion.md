@@ -16,8 +16,8 @@ nav_exclude: true
 
 ### TO-DO
 
-- [ ] 4 fotografías de comparación de proporciones.
-- [ ] Hoja desafío detective de fotos
+- [x] 4 fotografías de comparación de proporciones.
+- [x] Hoja desafío detective de fotos
 
 ### Fotografías distorsionadas (5 min.)
 
