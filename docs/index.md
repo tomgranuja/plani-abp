@@ -30,6 +30,7 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 - [NB8 Clase 01][nb8-c01]
 - [NB8 Clase 02][nb8-c02]
 - [NB8 Clase 03][nb8-c03]
+- [NB8 Clase 04][nb8-c04]
 
 [reciclaje67]: {{ site.baseurl }}{% link reciclaje67.html %}
 
@@ -58,3 +59,5 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 [nb8-c02]: {{ site.baseurl }}{% link matematica/nb8/02_multiplicar_expresiones_algebraicas.md %}
 
 [nb8-c03]: {{ site.baseurl }}{% link matematica/nb8/03_practica_expresiones_y_eval_formativa.md %}
+
+[nb8-c04]: {{ site.baseurl }}{% link matematica/nb8/04_evaluacion_sumativa_algebra.md %}

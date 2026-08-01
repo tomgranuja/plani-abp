@@ -32,6 +32,7 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 - [C01 Reducción de términos semejantes][nb8-c01]
 - [C02 Multiplicar expresiones algebraicas][nb8-c02]
 - [C03 Práctica expresiones y evaluación formativa][nb8-c03]
+- [C04 Evaluación sumativa álgebra][nb8-c04]
 
 
 [nb67-c01]: {{ site.baseurl }}{% link matematica/nb67/01_concepto_y_nombres_de_fraccion.md %}
@@ -57,3 +58,5 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 [nb8-c02]: {{ site.baseurl }}{% link matematica/nb8/02_multiplicar_expresiones_algebraicas.md %}
 
 [nb8-c03]: {{ site.baseurl }}{% link matematica/nb8/03_practica_expresiones_y_eval_formativa.md %}
+
+[nb8-c04]: {{ site.baseurl }}{% link matematica/nb8/04_evaluacion_sumativa_algebra.md %}
