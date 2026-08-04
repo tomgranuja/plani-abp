@@ -17,6 +17,7 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 - [C05 Comprensión de division][nb67-c05]
 - [C06 Aplicación de division][nb67-c06]
 - [C07 Fracciones equivalentes][nb67-c07]
+- [C08 Adición gráfica][nb67-c08]
 
 ## NB678: Bloque de trabajo con 6°, 7° y 8° básico.
 
@@ -50,6 +51,8 @@ Desarrollo de planificaciones de clases para diferentes subconjuntos del ciclo c
 [nb67-c06]: {{ site.baseurl }}{% link matematica/nb67/06_aplicacion_division.md %}
 
 [nb67-c07]: {{ site.baseurl }}{% link matematica/nb67/07_fracciones_equivalentes.md %}
+
+[nb67-c08]: {{ site.baseurl }}{% link matematica/nb67/08_adicion_grafica.md %}
 
 [nb678-c01]: {{ site.baseurl }}{% link matematica/nb678/01_concepto_de_razon.md %}
 
