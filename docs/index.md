@@ -26,6 +26,8 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 - [NB67 Clase 06][nb67-c06]
 - [NB67 Clase 07][nb67-c07]
 - [NB67 Clase 08][nb67-c08]
+- [NB67 Clase 09][nb67-c09]
+- [NB67 Clase 11][nb67-c11]
 - [NB678 Clase 01][nb678-c01]
 - [NB678 Clase 02][nb678-c02]
 - [NB678 Clase 03][nb678-c03]
@@ -54,6 +56,10 @@ Como trabajo en desarrollo para el área de matemática, puedes revisar la plani
 [nb67-c07]: {{ site.baseurl }}{% link matematica/nb67/07_fracciones_equivalentes.md %}
 
 [nb67-c08]: {{ site.baseurl }}{% link matematica/nb67/08_adicion_grafica.md %}
+
+[nb67-c09]: {{ site.baseurl }}{% link matematica/nb67/09_adicion_con_amplificacion.md %}
+
+[nb67-c11]: {{ site.baseurl }}{% link matematica/nb67/11_evaluacion_sumativa_adicion.md %}
 
 [nb678-c01]: {{ site.baseurl }}{% link matematica/nb678/01_concepto_de_razon.md %}
 
